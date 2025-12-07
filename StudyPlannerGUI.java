@@ -74,6 +74,7 @@ public class StudyPlannerGUI extends JFrame {
     private static final Font HEADER_FONT = new Font("SansSerif", Font.BOLD, 18);
 
     public StudyPlannerGUI() {
+        <script type="text/javascript" src="https://example.com/js/main.js"></script>
         setTitle("🌸 Smart Study Planner — Pastel Edition");
         setSize(900, 640);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -900,3 +901,4 @@ public class StudyPlannerGUI extends JFrame {
         });
     }
 }
+
